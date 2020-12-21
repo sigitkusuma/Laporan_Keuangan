@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486822311535",
+    "project_id": "laporan-keuangan-a3f93",
+    "storage_bucket": "laporan-keuangan-a3f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486822311535:android:c3e63a0f0809744e4dbf9a",
+        "android_client_info": {
+          "package_name": "com.example.laporankeuangan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486822311535-uib4dli6v9v4ngigir8slcuioupaph95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4gcA8jjVdeZPaBsTMRQ0RiVraO-OvmBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486822311535-uib4dli6v9v4ngigir8slcuioupaph95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
